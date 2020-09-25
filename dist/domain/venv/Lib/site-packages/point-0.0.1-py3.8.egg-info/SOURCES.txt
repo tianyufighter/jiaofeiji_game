@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+point/__init__.py
+point.egg-info/PKG-INFO
+point.egg-info/SOURCES.txt
+point.egg-info/dependency_links.txt
+point.egg-info/requires.txt
+point.egg-info/top_level.txt
+tests/__init__.py
